@@ -25,11 +25,11 @@ horizontal_alignment = 1
 clip_contents = false
 custom_minimum_size = Vector2(0, 37)
 layout_mode = 2
-text = "INSTANCE_ID"
+text = "YOUR_INSTANCE_ID"
 
 [node name="Label2" type="Label" parent="VBoxContainer"]
 layout_mode = 2
-text = "API KEY"
+text = "API TOKEN"
 horizontal_alignment = 1
 
 [node name="TextEditAPIKey" type="TextEdit" parent="VBoxContainer"]
@@ -37,7 +37,7 @@ clip_contents = false
 custom_minimum_size = Vector2(0, 37)
 layout_mode = 2
 size_flags_vertical = 2
-text = "API_KEY"
+text = "YOUR_API_TOKEN"
 
 [node name="Label3" type="Label" parent="VBoxContainer"]
 layout_mode = 2
